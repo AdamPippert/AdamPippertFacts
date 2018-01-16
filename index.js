@@ -34,17 +34,19 @@ var ADAM_PIPPERT_FACTS = [
     "Adam is not the only member of his family to go by his middle name.  Traditionally, in his family, all oldest male children go by their middle name.",
     "If there were a planet named after Adam, it would be in the M33 galaxy, as 33 is his lucky number.",
     "The only person ever to defeat Adam in a spelling bee later became a nun.",
-    "Adam has lived in 5 states.  These include Virginia, Maryland, Oklahoma, Nevada, and Oregon.",
+    "Adam has lived in 5 states.",
     "Adam's favorite brand of pen is Zebra.",
-    "Adam will eat almost anything, but prefers Asian food if given a choice.  He used to work in Chinese restaurants, and got used to the food when working in these establishments.",
-    "Adam didn't get less than 100% on a school assignment until the 2nd grade.  He also never received any disciplinary action the entire time he was in school.",
-    "Adam's favorite toys growing up were Transformers and Legos.  Today, he still has several Lego models in his home office, and considers them amongst the items he'd save in a fire.",
+    "Adam will eat almost anything, but prefers Asian food if given a choice.",
+    "Adam used to work in Chinese restaurants, and got used to the food when working in these establishments.",
+    "Adam didn't get less than 100% on a school assignment until the 2nd grade.",
+    "Adam never received any disciplinary action the entire time he was in school.",
+    "Adam's favorite toys growing up were Transformers and Legos.",
     "Adam's favorite game to play at a casino is Pai Gow Poker.",
     "Adam wrote stories in elementary school about two twins who built a sattelite.  They were not very good stories.  He was 9.  What do you expect?",
-    "Adam owns a 15 passenger van, because he's so popular that this was the only way to handle requests from his friends who wanted to hang out with him.",
-    "Adam has a 6 pound Pomeranian named Teddy.  If you own a dog, he is cuter than your dog.  Guaranteed, or your money back.",
+    "Adam can play many musical instruments. Go check out his YouTube channel to hear him play!",
+    "Adam has a 6 pound Pomeranian named Teddy.",
     "Adam is like the Pied Piper, except he doesn't play the flute or wear green tights.",
-    "Adam's favorite colors are blue, black, silver, and white.  He estimated 95% of his clothes are exclusively these 4 colors."
+    "Adam's favorite colors are blue, black, silver, and white."
 ];
 
 /**
