@@ -42,7 +42,7 @@ var ADAM_PIPPERT_FACTS = [
     "Adam never received any disciplinary action the entire time he was in school.",
     "Adam's favorite toys growing up were Transformers and Legos.",
     "Adam's favorite game to play at a casino is Pai Gow Poker.",
-    "Adam wrote stories in elementary school about two twins who built a sattelite.  They were not very good stories.  He was 9.  What do you expect?",
+    "Adam wrote stories in elementary school about two twins who built a satellite.  They were not very good stories.  He was 9.  What do you expect?",
     "Adam can play many musical instruments. Go check out his YouTube channel to hear him play!",
     "Adam has a 6 pound Pomeranian named Teddy.",
     "Adam is like the Pied Piper, except he doesn't play the flute or wear green tights.",
