@@ -37,7 +37,7 @@ var ADAM_PIPPERT_FACTS = [
     "Adam has lived in 5 states.",
     "Adam's favorite brand of pen is Zebra.",
     "Adam will eat almost anything, but prefers Asian food if given a choice.",
-    "Adam used to work in Chinese restaurants, and got used to the food when working in these establishments.",
+    "Adam used to work in Chinese restaurants, but used to hate the food. Now, he loves it!",
     "Adam didn't get less than 100% on a school assignment until the 2nd grade.",
     "Adam never received any disciplinary action the entire time he was in school.",
     "Adam's favorite toys growing up were Transformers and Legos.",
