@@ -31,8 +31,8 @@ var ADAM_PIPPERT_FACTS = [
     "Adam is capable of making Chuck Norris cry.",
     "Adam came from humble beginnings. What the hell happened?",
     "Adam once got attacked in a hotel room suite in Las Vegas.  He got a black eye, but didn't have to pay for the hotel.",
-    "Adam is not the only member of his family to go by his middle name.  Traditionally, in his family, all oldest male children go by their middle name.",
-    "If there were a planet named after Adam, it would be in the M33 galaxy, as 33 is his lucky number.",
+    "Traditionally, in his family, all oldest male children go by their middle name.",
+    "33 is his lucky number.",
     "The only person ever to defeat Adam in a spelling bee later became a nun.",
     "Adam has lived in 5 states.",
     "Adam's favorite brand of pen is Zebra.",
@@ -44,8 +44,7 @@ var ADAM_PIPPERT_FACTS = [
     "Adam's favorite game to play at a casino is Pai Gow Poker.",
     "Adam wrote stories in elementary school about two twins who built a satellite.  They were not very good stories.  He was 9.  What do you expect?",
     "Adam can play many musical instruments. Go check out his YouTube channel to hear him play!",
-    "Adam has a 6 pound Pomeranian named Teddy.",
-    "Adam is like the Pied Piper, except he doesn't play the flute or wear green tights.",
+    "Adam has a 6 pound Pomeranian named Teddy."
     "Adam's favorite colors are blue, black, silver, and white."
 ];
 
