@@ -1,0 +1,97 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Learn interesting facts about Adam Pippert",
+          "examplePhrases": [
+            "Alexa, open Adam Pippert Facts",
+            "Alexa, ask Adam Pippert Facts for a fact",
+            "Alexa, ask Adam Pippert Facts to tell me something"
+          ],
+          "keywords": [
+            "facts",
+            "trivia",
+            "adam",
+            "pippert"
+          ],
+          "name": "Adam Pippert Fact Skill",
+          "description": "Learn interesting and fun facts about Adam Pippert. Just ask for a fact, and you'll learn something new!"
+        },
+        "en-GB": {
+          "summary": "Learn interesting facts about Adam Pippert",
+          "examplePhrases": [
+            "Alexa, open Adam Pippert Facts",
+            "Alexa, ask Adam Pippert Facts for a fact",
+            "Alexa, ask Adam Pippert Facts to tell me something"
+          ],
+          "keywords": [
+            "facts",
+            "trivia",
+            "adam",
+            "pippert"
+          ],
+          "name": "Adam Pippert Fact Skill",
+          "description": "Learn interesting and fun facts about Adam Pippert. Just ask for a fact, and you'll learn something new!"
+        },
+        "en-AU": {
+          "summary": "Learn interesting facts about Adam Pippert",
+          "examplePhrases": [
+            "Alexa, open Adam Pippert Facts",
+            "Alexa, ask Adam Pippert Facts for a fact",
+            "Alexa, ask Adam Pippert Facts to tell me something"
+          ],
+          "keywords": [
+            "facts",
+            "trivia",
+            "adam",
+            "pippert"
+          ],
+          "name": "Adam Pippert Fact Skill",
+          "description": "Learn interesting and fun facts about Adam Pippert. Just ask for a fact, and you'll learn something new!"
+        },
+        "en-IN": {
+          "summary": "Learn interesting facts about Adam Pippert",
+          "examplePhrases": [
+            "Alexa, open Adam Pippert Facts",
+            "Alexa, ask Adam Pippert Facts for a fact",
+            "Alexa, ask Adam Pippert Facts to tell me something"
+          ],
+          "keywords": [
+            "facts",
+            "trivia",
+            "adam",
+            "pippert"
+          ],
+          "name": "Adam Pippert Fact Skill",
+          "description": "Learn interesting and fun facts about Adam Pippert. Just ask for a fact, and you'll learn something new!"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Just ask for a fact about Adam Pippert!",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:062439427439:function:ask-adampippertfactskill-default-default-1732300720933"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {},
+        "en-GB": {},
+        "en-AU": {},
+        "en-IN": {}
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

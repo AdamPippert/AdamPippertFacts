@@ -1,0 +1,41 @@
+{
+  "askcliStatesVersion": "2020-03-31",
+  "profiles": {
+    "default": {
+      "skillId": "amzn1.echo-sdk-ams.app.5024c565-b6f9-4711-a1d9-fda80da53598",
+      "skillMetadata": {
+        "lastImportId": "amzn1.ask-package.import.fdc253c4-e8c9-4f5c-9c18-cebaa9ce9bba",
+        "lastImportTimestamp": "2024-11-22T18:36:53.295Z",
+        "lastDeployHash": "ANhE0ycDnyknwWKXj8h+eIvZ/WE=",
+        "lastDeployType": "interaction-model"
+      },
+      "code": {
+        "default": {
+          "lastDeployHash": "Or07jBPzuBnTFy0cWzSxqK/Dp5Q="
+        },
+        "lastDeployTimestamp": "2024-11-22T19:19:15.556Z"
+      },
+      "skillInfrastructure": {
+        "type": "@ask-cli/lambda-deployer",
+        "userConfig": {
+          "runtime": "nodejs18.x",
+          "handler": "index.handler",
+          "awsRegion": "us-east-1"
+        },
+        "@ask-cli/lambda-deployer": {
+          "deployState": {
+            "default": {
+              "lambda": {
+                "arn": "arn:aws:lambda:us-east-1:062439427439:function:ask-adampippertfactskill-default-default-1732300720933",
+                "lastModified": "2024-11-22T19:19:14.000+0000",
+                "revisionId": "22667355-c9eb-4e30-8995-dbc9dbde82e4"
+              },
+              "iamRole": "arn:aws:iam::062439427439:role/ask-lambda-AdamPippertFactSkill-1732300720354"
+            }
+          }
+        }
+      },
+      "deploymentStatus": "COMPLETE"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "adam-pippert-facts",
+  "version": "2.0.0",
+  "description": "An Alexa skill that tells interesting facts about Adam Pippert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.12.1",
+    "ask-sdk-model": "^1.39.0"
+  },
+  "author": "Adam Pippert",
+  "license": "Apache-2.0"
+}

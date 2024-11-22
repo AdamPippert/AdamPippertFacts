@@ -1,0 +1,10 @@
+{
+  "name": "adam-pippert-facts",
+  "version": "1.0.0",
+  "description": "Alexa skill that shares interesting facts about Adam Pippert",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.12.1",
+    "ask-sdk-model": "^1.39.0"
+  }
+}
